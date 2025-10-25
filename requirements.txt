@@ -1,0 +1,8 @@
+torch
+speechbrain
+numpy
+scikit-learn
+joblib
+torchaudio
+glob
+scikit-learn
